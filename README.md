@@ -1,2 +1,7 @@
-# Concurrent-Room-Booking
-College assignment implementing a REST server with concurrent handling of data
+# CA4006 Assignment 2
+
+## How to run
+Run the following command
+```
+./mvnw spring-boot:run
+```
